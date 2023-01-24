@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aryan Sharma
-- 👀 I’m interested in Web Projects
-- 🌱 I’m currently learning PHP
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Projects and Artificial Intelligence
+- 🌱 I’m currently learning Python
 
 <!---
 AryanSharmaDev/AryanSharmaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
