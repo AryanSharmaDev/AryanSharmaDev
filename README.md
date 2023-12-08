@@ -5,8 +5,7 @@
 </em></p>
 
 [![Linkedin: aryan](https://img.shields.io/badge/-realaryansharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realaryansharma/)](https://www.linkedin.com/in/realaryansharma/)
-![GitHub followers](https://img.shields.io/github/followers/realkanavarora?label=Follow&style=social)
-<!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link={url})]({url})-->
+![GitHub followers](https://img.shields.io/github/followers/realaryansharma?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=realaryansharma&label=Profile%20views&color=0e75b6&style=flat)
 
 
