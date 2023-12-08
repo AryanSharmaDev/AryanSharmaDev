@@ -11,9 +11,9 @@
 
 
 <p>
- I'm Aryan Sharma, Web Developer/Coder/AI Enthusiast 🥷,  Autodidact 👨‍💻 from 🇮🇳
+ I'm <b>Aryan Sharma</b>, Web Developer/ Coder/ AI Enthusiast 🥷,  Autodidact 👨‍💻 from 🇮🇳
   <br>
-  🎓 Persuing my masters from <a href="https://www.upes.ac.in/" > UPES.</a>
+  🎓 Persuing my masters from <a href="https://www.upes.ac.in/" > University of Petroleum and Energy Studies, Dehradun</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
