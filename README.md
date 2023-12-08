@@ -6,14 +6,14 @@
 
 [![Linkedin: aryan](https://img.shields.io/badge/-realaryansharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realaryansharma/)](https://www.linkedin.com/in/realaryansharma/)
 ![GitHub followers](https://img.shields.io/github/followers/realkanavarora?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://realkanav.me/)](https://realkanavarora.github.io/)
-![Profile Views](https://komarev.com/ghpvc/?username=realkanavarora&label=Profile%20views&color=0e75b6&style=flat)
+<!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link={url})]({url})-->
+![Profile Views](https://komarev.com/ghpvc/?username=realaryansharma&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
 <p>
  I'm Aryan Sharma, Web Developer/Coder/AI Enthusiast 🥷,  Autodidact 👨‍💻 from 🇮🇳
-  <br><br>
+  <br>
   🎓 Persuing my masters from <a href="https://www.upes.ac.in/" > UPES.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
@@ -28,10 +28,10 @@
 ```javascript
 const aryan = {
     pronouns: "He" | "Him",
-    code: ["Python", "Java"]
+    code: ["Python", "Java"],
     askMeAbout: ["web dev", "tech", "AI"],
     technologies: {
-        web: ["HTML" ,"CSS" , "LESS", "Javascript"]
+        web: ["HTML" ,"CSS" , "LESS", "Javascript"],
         databases: ["MySql", MariaDB],
         misc: ["tensorflow", "react"]
     },
