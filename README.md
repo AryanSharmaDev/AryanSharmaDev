@@ -4,7 +4,7 @@
 </a>
 </em></p>
 
-[![Linkedin: aryan](https://img.shields.io/badge/-realaryansharma-mauve?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realaryansharma/)](https://www.linkedin.com/in/realaryansharma/)
+[![Linkedin: aryan](https://img.shields.io/badge/-realaryansharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realaryansharma/)](https://www.linkedin.com/in/realaryansharma/)
 ![GitHub followers](https://img.shields.io/github/followers/realaryansharma?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=realaryansharma&label=Profile%20views&color=0e75b6&style=flat)
 
