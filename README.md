@@ -31,7 +31,7 @@ const aryan = {
     askMeAbout: ["web dev", "tech", "AI"],
     technologies: {
         web: ["HTML" ,"CSS" , "LESS", "Javascript"],
-        databases: ["MySql", MariaDB],
+        databases: ["MySql", "MariaDB"],
         misc: ["tensorflow", "react"]
     },
     currentStatus: "Learning",
