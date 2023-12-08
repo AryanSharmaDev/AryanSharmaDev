@@ -13,7 +13,7 @@
 <p>
  I'm <b>Aryan Sharma</b>, Web Developer/ Coder/ AI Enthusiast 🥷,  Autodidact 👨‍💻 from 🇮🇳
   <br>
-  🎓 Persuing my masters from <a style="text-decoration: none;" href="https://www.upes.ac.in/" > University of Petroleum and Energy Studies, Dehradun</a>
+  🎓 Persuing my masters from University of Petroleum and Energy Studies, Dehradun
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
